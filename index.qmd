@@ -1,0 +1,32 @@
+---
+title: "Karl-Emil Bendtsen"
+about:
+  template: trestles        # or jolla, solana, etc.
+  image: pb.jpg        # put this file in the project folder
+  links:
+    - icon: envelope
+      text: Email
+      href: "kesb@ifs.ku.dk"
+    # - icon: github
+    #   text: GitHub
+    #   href: "https://github.com/your-username"
+    - icon: google scholar
+      text: Scholar
+      href: "https://scholar.google.com/citations?user=jsZh-bsAAAAJ&hl=en&oi=ao"
+    - icon: twitter
+      text: Twitter
+      href: "https://x.com/KarlEmil8D"
+    - icon: bluesky
+      text: Bluesky
+      href: "https://bsky.app/profile/karlemilbendtsen.bsky.social" 
+---
+
+Hi! I am a PhD student at the Department of Political Science at the University of Copenhagen. My research is on bureaucracy, discretion, policy uptake, and legal complexity.
+
+
+
+## Working papers
+
+- Women’s Impact through the Policy Process: Different Preferences and Agendas – Same Outcomes with Karl-Emil Svenningsen Bendtsen & Lene Holm Pedersen. Resubmitted to Political Science Research & Methods.
+
+- "Another title", Journal, year.
