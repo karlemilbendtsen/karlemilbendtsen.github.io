@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "takeup_update.html",
+    "href": "takeup_update.html",
+    "title": "Increasing take-up of social benefits: updated results",
     "section": "",
-    "text": "About this site"
+    "text": "This page updates the main results of Increasing take-up of social benefits: a meta-analysis of field experiments (Journal of Policy Analysis and Management) with field experiments published after the paper’s search closed, plus eligible studies the search missed. The updated dataset adds 46 effect sizes from 15 new studies, for a total of 233 effect sizes from 66 field experiments. New studies were coded with the same scheme as the paper; the same three-level meta-analytic models are re-estimated on the extended data.\nThe paper’s conclusions hold. Interventions still raise take-up on average, application-stage effects are still about twice the size of effects on actual benefit receipt, and reducing compliance demands still beats providing information. Every estimate is somewhat smaller than in the published version, consistent with the decline effect discussed in the paper: the newest evidence comes mostly from large administrative trials with small effects."
+  },
+  {
+    "objectID": "takeup_update.html#effects-by-outcome-type",
+    "href": "takeup_update.html#effects-by-outcome-type",
+    "title": "Increasing take-up of social benefits: updated results",
+    "section": "Effects by outcome type",
+    "text": "Effects by outcome type\nIt remains significantly easier to raise application rates than actual take-up rates."
+  },
+  {
+    "objectID": "takeup_update.html#effects-by-intervention-type",
+    "href": "takeup_update.html#effects-by-intervention-type",
+    "title": "Increasing take-up of social benefits: updated results",
+    "section": "Effects by intervention type",
+    "text": "Effects by intervention type\nInterventions reducing compliance demands (assistance, simplified procedures) still have substantially larger effects than interventions reducing learning demands (information, reminders), at both stages."
+  },
+  {
+    "objectID": "takeup_update.html#all-effect-sizes",
+    "href": "takeup_update.html#all-effect-sizes",
+    "title": "Increasing take-up of social benefits: updated results",
+    "section": "All effect sizes",
+    "text": "All effect sizes\nNew effect sizes (dark) cluster near zero more than the published ones — most of the new evidence comes from large, light-touch administrative trials."
+  },
+  {
+    "objectID": "takeup_update.html#effects-over-time",
+    "href": "takeup_update.html#effects-over-time",
+    "title": "Increasing take-up of social benefits: updated results",
+    "section": "Effects over time",
+    "text": "Effects over time\nThe negative association between intervention year and effect size from the paper persists in the extended data."
+  },
+  {
+    "objectID": "takeup_update.html#effects-across-the-control-baseline",
+    "href": "takeup_update.html#effects-across-the-control-baseline",
+    "title": "Increasing take-up of social benefits: updated results",
+    "section": "Effects across the control baseline",
+    "text": "Effects across the control baseline\nA new result made possible by the added studies: effect sizes follow an inverted U across the control-group take-up rate, peaking where roughly a third of eligible people already take up the benefit and vanishing near the ceiling. Part of this shape is mechanical (effects are bounded by the distance to 100%), and baselines correlate with program and intervention type, so this is descriptive rather than causal.\n\n\nUpdated June 2026. Studies added after publication were located and coded with AI assistance (Claude, with verification against each paper’s tables); all inclusion decisions and coding notes are documented in the update’s replication files. Comments and missed studies are welcome: kesb@ifs.ku.dk."
   },
   {
     "objectID": "index.html",
@@ -18,7 +53,7 @@
     "href": "index.html#publications",
     "title": "Karl-Emil Bendtsen",
     "section": "Publications",
-    "text": "Publications\n\nIncreasing take-up of social benefits: a meta-analysis of field experiments (Journal of Policy Analysis and Managment)\nPublic Administration Beyond Public Administration Journals with Asmus Leth Olsen & Paul van Leeuwen. (PS: Political Science and Politics)"
+    "text": "Publications\n\nIncreasing take-up of social benefits: a meta-analysis of field experiments (Journal of Policy Analysis and Managment) — updated results\nPublic Administration Beyond Public Administration Journals with Asmus Leth Olsen & Paul van Leeuwen. (PS: Political Science and Politics)"
   },
   {
     "objectID": "index.html#working-papers",
@@ -26,5 +61,12 @@
     "title": "Karl-Emil Bendtsen",
     "section": "Working papers",
     "text": "Working papers\n\nWomen’s Impact through the Policy Process: Different Preferences and Agendas – Same Outcomes with Frederik Klaaborg Kjøller & Lene Holm Pedersen. (Resubmitted to Electoral Studies)\nLonger Laws, Better Service? Legislative Complexity and Bureaucratic Quality with Jonas Krogh Madsen\nArbitrary Bureaucratic Decisions\nNoise in Administrative Decision-Making: Public Administration’s Unseen Error and AI’s Role in Enhancing Personnel Selection Consistency with Mogens Jin Pedersen & Florian Keppeler\nCan Nominating More Minority Candidates Backfire? with Jacob Richard Bøggild Strabo"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
