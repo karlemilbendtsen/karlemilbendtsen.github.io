@@ -32,7 +32,7 @@ Interventions reducing compliance demands (assistance, simplified procedures) st
 
 ## All effect sizes
 
-New effect sizes (dark) cluster near zero more than the published ones — most of the new evidence comes from large, light-touch administrative trials.
+Most effect sizes are small and positive, with a long right tail; many precise estimates sit close to zero.
 
 ![](takeup_update_files/fig2_forest.png){width=90%}
 
