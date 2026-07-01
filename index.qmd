@@ -25,14 +25,14 @@ Hi! I am a PhD student at the Department of Political Science at the University 
 
 ## Publications
 
-- *Increasing take-up of social benefits: a meta-analysis of field experiments* (Journal of Policy Analysis and Managment) — [updated results](takeup_update.html)
+- [*Women’s causal impact through the policy process: Different preferences – same outcomes*](https://www.sciencedirect.com/science/article/pii/S0261379426000648) with Frederik Klaaborg Kjøller & Lene Holm Pedersen. (Electoral Studies)
 
-- *Public Administration Beyond Public Administration Journals* with Asmus Leth Olsen & Paul van Leeuwen. (PS: Political Science and Politics)
+- [*Increasing take-up of social benefits: a meta-analysis of field experiments*](https://onlinelibrary.wiley.com/doi/abs/10.1002/pam.70085) (Journal of Policy Analysis and Managment) — [updated results](takeup_update.html)
+
+- [*Public Administration Beyond Public Administration Journals*](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/public-administration-beyond-public-administration-journals/9A9373268F2880A786AB899960764015) with Asmus Leth Olsen & Paul van Leeuwen. (PS: Political Science and Politics) — [additional analyses](https://paopa.org)
 
 
 ## Working papers
-
-- *Women’s Impact through the Policy Process: Different Preferences and Agendas – Same Outcomes* with Frederik Klaaborg Kjøller & Lene Holm Pedersen. (Resubmitted to Electoral Studies)
 
 - *Longer Laws, Better Service? Legislative Complexity and Bureaucratic Quality* with Jonas Krogh Madsen
 
