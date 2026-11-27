@@ -23,6 +23,10 @@ about:
 
 Hi! I am a PhD student at the Department of Political Science at the University of Copenhagen. My research is mainly on bureaucracy, discretion, policy uptake, legal complexity, digitalization and the use of AI in public administrations and politics. I sometimes also do reserach on electoral systems and local politics. 
 
+## Dissertation
+
+- [*Like Cases, Unlike Outcomes: Arbitrariness in Administrative Discretion, Decisions, and Delivery*](dissertation/like-cases-unlike-outcomes.pdf) (PhD dissertation, University of Copenhagen, 2026). Full version, including all appendices.
+
 ## Publications
 
 - [*Women’s causal impact through the policy process: Different preferences – same outcomes*](https://www.sciencedirect.com/science/article/pii/S0261379426000648) with Frederik Klaaborg Kjøller & Lene Holm Pedersen. (Electoral Studies)

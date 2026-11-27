@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs   # important for GitHub Pages
+  resources:
+    - dissertation/like-cases-unlike-outcomes.pdf   # stable URL used by the QR code in the printed dissertation
 
 
 website:
